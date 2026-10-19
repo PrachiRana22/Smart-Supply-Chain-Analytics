@@ -1,0 +1,11 @@
+Topic name:- 
+Smart Supply Chain Analytics
+
+Smart Supply Chain Analytics: An End-to-End Framework for Demand Forecasting, Inventory Optimization, Supplier Performance and Delivery Analytics.
+
+
+Dataset :- 
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+(file_name  :- DataCoSupplyChainDataset )
+
+smart-supply-chain-analytics
